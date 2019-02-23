@@ -1,0 +1,31 @@
+{
+  "name": "shut-up-and-type-bot",
+  "version": "1.0.0",
+  "description": "мне миша надоел",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaLisitsin/shut-up-and-type-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaLisitsin/shut-up-and-type-bot/issues"
+  },
+  "homepage": "https://github.com/IlyaLisitsin/shut-up-and-type-bot#readme",
+  "devDependencies": {
+    "blob": "0.0.5",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.3.0",
+    "nodemon": "^1.18.10",
+    "opus-to-pcm": "^1.0.2",
+    "telegraf": "^3.27.1",
+    "uuid": "^3.3.2",
+    "yandex-speech": "0.0.14"
+  }
+}

@@ -1,0 +1,10 @@
+node_modules
+.idea/
+*.log
+npm-debug.log*
+dist
+coverage
+.vscode/
+.prettierrc
+docker-compose.yml
+package-lock.json
